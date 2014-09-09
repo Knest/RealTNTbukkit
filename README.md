@@ -8,5 +8,8 @@ Features:
 + Rotates wood logs after explosion
 + Ignores some technical blocks, eg. leaves
 + Have better velocity calculator than RealTNT project on bukkit, and it's easier than it
++ Fixes the primed TNT velocity after priming from block (in vanilla it has no velocity on priming)
 - Is for Bukkit
+
+
 
